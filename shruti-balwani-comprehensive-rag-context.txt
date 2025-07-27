@@ -1,0 +1,215 @@
+# SHRUTI BALWANI – COMPREHENSIVE RAG CONTEXT DOCUMENT
+
+## BASIC INFORMATION
+**Name:** Shruti Balwani  
+**Current Location:** Bangalore, India  
+**Contact Information:**
+- Phone: +91-8888770116
+- Email: balwanishruti123@gmail.com
+- LinkedIn: https://in.linkedin.com/in/shruti-balwani-191582192
+- Portfolio: https://ballistic-soy-5d0.notion.site/Hola-I-m-Shruti-1daff976c88a806a8053c4ca5d4cf968
+
+## PROFESSIONAL SUMMARY
+Shruti Balwani is a high-agency, fast-learning Product Manager with a strong technical foundation and a first-principles mindset. She excels in transforming ambiguity into clarity, driving product-market fit, and leading AI-powered initiatives that scale. Comfortable in chaotic environments, she consistently delivers value through user-obsessed strategies and data-driven decisions. Her career progression demonstrates rapid learning and adaptability across domains, with a pattern of thriving in chaos and seeking challenges through "stretch" opportunities.
+
+## CURRENT & RECENT PROFESSIONAL ROLES
+
+### Product Manager, HyperVerge (Apr 2025 – Present)
+- Leading 0→1 development of a Loan Origination System (LOS) for BFSI (Banking, Financial Services, and Insurance) clients
+- Focuses on digitizing and streamlining complex lending workflows
+- Architecting cloud-native Loan Origination System with integrated AI KYC & underwriting modules achieving pilot 99% approval accuracy
+- Responsible for GTM (Go-To-Market) strategy, iterative product-market fit, and stakeholder management
+- Conducted 30+ client interviews, deep market dives, and iterative validation cycles for user-problem alignment using lovable created prototypes
+- Ran 30+ CXO interviews; prioritized modular design after benchmarking Jocata & Finflux competitors
+
+### Associate Product Manager, HyperVerge (Apr 2024 – Mar 2025)
+- Revamped platform UX with dashboards and 12+ friction-reducing features; led to a 10% conversion boost for 50+ clients (including SBI, SBIC, Mobikwik)
+- Accelerated GTM across 5 industries, onboarding notable clients like Cred, Zoho, and PayU and driving 40% YoY pipeline growth
+- Conducted 50+ interviews and 20+ client visits, successfully increasing NPS from 6 to 8.5
+- Deployed 12 UX features; boosted conversion 10% across 50+ clients (SBI, Cred, Zoho)
+- Funnel analytics cut top-5 drop-offs; NPS increased from 6 to 8.5
+
+### Product Analyst, HyperVerge (Jul 2023 – Mar 2024)
+- Streamlined VKYC (Video Know Your Customer) workflows for 10+ enterprises, enabling $18K in Monthly Recurring Revenue (MRR) growth and onboarding 11 clients (LTFS, Revolut, Kissht, Smartcoin, etc.)
+- Led fast-paced discovery and go-to-market for "Unassisted VKYC"—resulting in 5 client wins and $2K MRR
+- Spearheaded launch of the AI-powered "Health Metrics" product for age, BMI, and vitals detection via rPPG technology
+- VKYC optimizations cut agent wait-time via pre-call liveness & PAN auto-capture
+
+### Product Intern, HyperVerge (May 2022 – Apr 2024)
+- Supported PM in European market discovery, following JJellyfish and The Mom Test methodologies to distill market insights
+- Applied JJellyfish discovery framework for EU expansion; validated compliance barriers early
+- Assisted in requirement gathering and prototype validation
+
+## EDUCATIONAL BACKGROUND & CERTIFICATIONS
+- **B.Tech, Electrical Engineering**
+  - Indian Institute of Technology (IIT) Ropar
+  - June 2019 – May 2023
+  - CGPA: 8.26
+
+### Certifications & Honors:
+- GoPractice Product Simulation: 100% merit-based scholarship
+- Internal promotion to Product Manager (FY26) for exceptional performance
+
+## PERSONAL ETHOS & MINDSET
+- Exceptionally fast learner across disciplines; self-taught swimming in 7 days as a child, challenging preset timelines
+- Her approach is defined by thriving in chaos, seeking challenges, and learning through "stretch" opportunities
+- Prefers initiating and transforming projects where ambiguity or high risk exists, believing these are the environments in which she grows fastest
+- Side projects for her are deliberate learning loops, always chosen for technical or conceptual complexity—not just to "win" but to accelerate depth of understanding
+- Startup attempts in college (like a healthcare-networking platform and a high-touch parenting product) were shut down when validation showed their limitations—an explicit part of her drive for authentic product-market discovery and aversion to derivative ideas
+- High-agency, proactive, and comfortable outside the playbook—preferring to set new precedents rather than follow existing ones
+- Prefers authentic product-market discovery; shut down derivative ideas based on user validation
+- Has built a conversational "About Shruti" bot for fun, demonstrating a penchant for playful self-documentation and technical creativity
+
+## DOMAIN EXPERTISE
+
+### Digital KYC & Identity AI
+- HyperVerge processes 850 M+ verifications across 195 countries; 99.55% facial-match accuracy
+- Shruti's VKYC optimizations cut agent wait-time via pre-call liveness & PAN auto-capture
+
+### Loan Origination Systems (LOS)
+- Shruti's LOS design emphasizes no-code workflow builder, open APIs, and AI-powered fraud screens—differentiators vs. Jocata & Lentra
+- Modular scorecards enable rapid risk-model tweaks, mirroring market shift to embedded lending
+
+### Product Ops & Data-Driven GTM
+- Regularly uses Metabase/SQL to instrument step-wise funnel analytics; aligns with Jellyfish-style engineering-visibility metrics
+- Applies "The Mom Test" for unbiased problem interviews, anchoring on past behavior not hypotheticals
+
+## SKILLS & TECHNICAL STACK
+
+### Product & Strategy:
+- Product Management: Thinking & Strategy, Execution, Delivery, Pricing, User Research
+- End-to-end product development (ideation → roadmap → launch → post-launch)
+- Growth initiatives, GTM alignment, onboarding, SDK improvements
+- User research, requirement gathering, market validation
+- Communication & Sales: Hands-on experience pitching to CXOs and closing B2B clients
+
+### Technical Proficiency:
+- **Programming Languages:** Python, SQL, C/C++, JavaScript, HTML, CSS
+- **Data & ML:** Pandas, NumPy, Matplotlib, Plotly, Scikit-learn, TensorFlow, XGBoost
+- **AI/LLM Tools:** LangChain, Flowise, Langflow, Streamlit, n8n, Cursor, Lovable
+- **RAG Systems:** Custom pipelines using LangChain templates and local vector stores
+- **Development Tools:** Figma, Supabase, GitHub, Miro API, Docker, Cursor IDE
+- **Wireframing/UI:** Figma, Uizard
+- **Agile/Product:** Jira
+- **Analytics:** Metabase, SQL
+- **DevOps:** Docker, Supabase, CI/CD workflows
+- **Other Tools Used Regularly:** Cursor, Oliv, Beautiful.ai, Fireflies, Perplexity AI
+
+### Analytics & Business Tools:
+- SQL, Metabase, Docker, Supabase, CI/CD workflows
+
+## RECENT AI & AUTOMATION PROJECTS
+
+### LoRA Image Generation via Replicate
+- Trained custom low-rank adaptation models for personalized image concepts
+
+### AI Video Generation
+- Developed GenAI video workflows for dynamic content creation
+
+### Napkin AI Flowchart Creator
+- Converted messy user input into clear, visual flowcharts
+
+### 11Labs Fine-tuning
+- Fine-tuned voice models to create personal voice clones
+
+
+### AI-Powered Non-Fiction Book Summarizer (Apr 2025)
+- Built a web application for uploading non-fiction PDFs that delivers:
+  - First-principles summaries
+  - Editable mind maps
+  - Interactive workbook questions using RAG (retrieval-augmented generation), cursor, Streamlit, and PDF parsing
+
+### Movie Recommender (n8n)
+- Developed a movie recommendation app using n8n with RAG for experimentation with AI automation and API orchestration
+- Built & deployed full-stack app with visual code editor & AI copilots; automated Render deployments
+
+## STARTUP IDEATION & VALIDATION EXPERIENCE
+
+### LinkedIn for Health
+- Investigated a networking platform for health, eventually discarding the idea post user interviews and reference to "Zero to One" for lack of differentiation and inability to beat incumbent networks
+
+### Parenting & Caregiving Platform
+- Explored—but paused—a high-touch product due to market's service-heavy, low scalability constraints
+
+**Note:** Both were seen as deliberate learning experiments—not as failures, demonstrating her drive for authentic product-market discovery.
+
+## LEADERSHIP & EXTRACURRICULAR ACTIVITIES
+
+### Student Placement Head, IIT Ropar (Aug 2022–June 2023)
+- Spearheaded placement for product, business, and data tracks, improving placement statistics by 12%
+
+### Head Coordinator, E-Cell – Media & Publicity Lead, IIT Ropar
+- Leadership role in entrepreneurship cell activities
+
+### Project Coordinator, Enactus (Oct 2019–Mar 2021)
+- Organized and managed the "Strand" project producing 2 lakh+ revenue and direct impact on 100+ families, collecting 15k+ old clothes
+
+### Cultural Activities
+- Active in theatre in school and college
+
+## VISION & ASPIRATIONS
+- Building AI-powered tools in education & investing
+- Solving global-scale challenges: sustainability, responsible AI
+- Exploring AI agents, automation, no-code/low-code platforms
+- Passion for scalable platforms with user-first design
+
+## TOOLS & PLATFORMS USED
+
+### Investment Platforms:
+- Zerodha, INDMoney, InCred Money, WintWealth, Gullak, SafeGold
+
+### AI Development:
+- Flowise, Langflow, Render, Streamlit, Supabase, Cursor IDE, n8n
+
+### Prompting & RAG:
+- Chunking, LangChain templates, Custom summarization chains
+
+### Cloud APIs:
+- Google Cloud, Miro API, Replicate, 11Labs
+
+### Agile & Analytics:
+- Jira, Metabase, SQL
+
+## DIGITAL FOOTPRINT & RECOGNITION
+- IIT Ropar Technology Business Incubator (TBIF) showcases defense startups; Shruti taps same mentor pool for fintech insights
+- Featured by HyperVerge on LinkedIn for April-Fools VKYC-for-Pets campaign, underscoring creative GTM flair
+- Bot link: "About Shruti" conversational agent (self-hosted)
+
+### Key Metrics & Achievements:
+- 10% conversion boost across 50+ clients
+- 40% YoY pipeline growth
+- $18K MRR growth from VKYC optimization
+- NPS improvement from 6 to 8.5
+- 99% approval accuracy in LOS pilot
+- 12% improvement in placement statistics at IIT Ropar
+
+##PERSONAL PASSIONS
+
+###Non-fiction & Fiction Reader
+- Shruti is passionate about reading across genres, leveraging books to continuously expand her worldview and deepen her understanding. Few examplar books shared below:
+
+-- Non-fiction favorites:
+--- The Psychology of Money — reshaped perspectives on wealth and behavior
+--- Atomic Habits — foundational book for habit formation and personal growth
+--- Thinking, Fast and Slow — explored cognitive biases and decision-making processes
+--- Zero to One — applied first-principles thinking for startup and product insights
+--- The Mom Test — practical approach to user-led product discovery and validation
+
+-- Fiction favorites:
+--- The Alchemist – a poetic reminder to trust your journey, follow your “Personal Legend,” and find meaning in the pursuit.
+--- The Kite Runner — appreciation for themes of redemption, family bonds, and resilience
+--- A Man Called Ove — inspired by finding meaning through unlikely friendships
+--- The Murder of Roger Ackroyd (Agatha Christie) — affinity for classic mystery and narrative twists
+--- Kafka on the Shore – emotional depth in surreal fiction
+
+###Sports & Outdoors
+- Regular badminton player
+- Enthusiastic swimmer
+- Eager to explore water sports such as kayaking, paddleboarding, and snorkeling
+
+###Creative Expression
+- Enjoys merging storytelling and technology
+- Active in stage performances and monologue delivery
+- Builds AI-driven creative projects including conversational bots and visual tools
+
+This document consolidates verified information from multiple sources into a structured 360-degree profile suitable for embedding as high-recall context in Retrieval-Augmented Generation pipelines. It provides comprehensive coverage of Shruti Balwani's professional journey, technical capabilities, leadership experience, and personal approach to product management and innovation.
